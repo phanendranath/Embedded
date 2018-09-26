@@ -1,2 +1,2 @@
 # Embedded
-A live human Detection robot Embedded C code
+CELLULAR CONTROL AND ALIVE HUMAN DETECTION ROBOT
